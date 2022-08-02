@@ -1,4 +1,4 @@
-export const data = [
+export const data = (props) => [
     {
         id:1,
         soru:"Nerede yaşıyoruz ? ", 
