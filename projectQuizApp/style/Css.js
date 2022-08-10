@@ -9,7 +9,8 @@ export const styles = StyleSheet.create({
     },
     question:{
         fontSize:30,
+    },
+    
 
-    }
 })
 
